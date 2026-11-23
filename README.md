@@ -6,6 +6,18 @@ A selection of personal software projects focused on business management, automa
 
 My work combines a background in Informatics with professional experience in business consulting and digital transformation.
 
+## Explore Projects
+
+| Project | Focus Area | Status |
+|---------|------------|--------|
+| [SYNTRA](projects/SYNTRA.md) | Business Management & Enterprise Software | In Development |
+| [FRIDAY](projects/FRIDAY.md) | Local AI & Voice Assistants | In Development |
+| [NORIA](projects/NORIA.md) | AI-Powered Email Automation | In Development |
+| [DOMA](projects/DOMA.md) | Real Estate & PropTech | Functional Prototype |
+| [ROAVIA](projects/ROAVIA.md) | Travel Planning & TravelTech | Functional Prototype |
+
+---
+
 ## Featured Projects
 
 ### [SYNTRA — Business Operating System](projects/SYNTRA.md)
