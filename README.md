@@ -15,28 +15,28 @@ An integrated business management platform designed for consulting firms, combin
 
 **Tech Stack:** React, TypeScript, Vite, C#, ASP.NET Core (.NET 8), SQL Server.
 
-### FRIDAY — Personal AI Assistant
+### [FRIDAY — Personal AI Assistant](projects/FRIDAY.md)
 **Status:** In active development
 
 A Windows AI assistant designed to run local large language models without relying on cloud services. Features conversational AI, speech recognition and text-to-speech capabilities.
 
 **Tech Stack:** Electron, React, TypeScript, Vite, llama.cpp, Qwen3, Whisper.cpp, Piper.
 
-### NORIA — AI-Powered Email Management System
+### [NORIA — AI-Powered Email Management System](projects/NORIA.md)
 **Status:** In active development
 
 A desktop application for managing email campaigns, contacts and audience segmentation. Includes AI-assisted content generation and safeguards for responsible email sending.
 
 **Tech Stack:** Electron, React, TypeScript, Vite, SQLite, OpenAI API. AWS SES/SNS integration in progress.
 
-### DOMA — Real Estate Discovery Platform
+### [DOMA — Real Estate Discovery Platform](projects/DOMA.md)
 **Status:** Functional prototype
 
 A real estate discovery platform focused on architectural presentation, property search, user experience and viewing enquiries.
 
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Bun.
 
-### ROAVIA — Travel Planning Platform
+### [ROAVIA — Travel Planning Platform](projects/ROAVIA.md)
 **Status:** Functional prototype
 
 A personalised travel planning platform for discovering destinations, organising trips and exploring points of interest through Google Places API.
