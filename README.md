@@ -8,7 +8,7 @@ My work combines a background in Informatics with professional experience in bus
 
 ## Featured Projects
 
-### SYNTRA — Business Operating System
+### [SYNTRA — Business Operating System](projects/SYNTRA.md)
 **Status:** In active development
 
 An integrated business management platform designed for consulting firms, combining CRM, project and task management, financial data and business process workflows.
